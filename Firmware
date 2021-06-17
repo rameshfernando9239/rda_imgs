@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T04:04:11.034Z" agent="5.0 (Windows)" version="14.7.7" etag="ERa5YLLAsWIfc7q75ZAx" type="github"><diagram id="WA--X0zDNtgiKTkPDhKK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-17T04:08:58.032Z" agent="5.0 (Windows)" etag="3a6G9g2DPdgl6X9xaXWI" version="14.7.7" type="github">
+  <diagram id="WA--X0zDNtgiKTkPDhKK" name="Page-1">
+    <mxGraphModel dx="981" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h4HwCCCqERWOBJOirVwP-1" value="PC" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="220" y="140" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="h4HwCCCqERWOBJOirVwP-2" value="Zebu server" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="620" y="105" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="h4HwCCCqERWOBJOirVwP-3" value="&lt;div align=&quot;left&quot;&gt;Firmware&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Handles the traffic.&lt;/li&gt;&lt;li&gt;Buffer&lt;/li&gt;&lt;li&gt;Message passing mechanism &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="410" y="60" width="140" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="h4HwCCCqERWOBJOirVwP-4" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.393;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h4HwCCCqERWOBJOirVwP-1" target="h4HwCCCqERWOBJOirVwP-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="460" as="sourcePoint" />
+            <mxPoint x="280" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4HwCCCqERWOBJOirVwP-5" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=-0.006;exitY=0.577;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="h4HwCCCqERWOBJOirVwP-3" target="h4HwCCCqERWOBJOirVwP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="330" as="sourcePoint" />
+            <mxPoint x="390" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4HwCCCqERWOBJOirVwP-6" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.393;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="549.9999999999999" y="160" as="sourcePoint" />
+            <mxPoint x="630" y="161.11" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4HwCCCqERWOBJOirVwP-7" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=-0.006;exitY=0.577;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="629.1600000000001" y="210.78999999999996" as="sourcePoint" />
+            <mxPoint x="549.9999999999999" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
